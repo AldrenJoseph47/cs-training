@@ -6,4 +6,4 @@ for char in rev_string:
         unique_chars.append(char)
 print("Output reversed and removed duplicates:")
 for i in unique_chars:
-  print(i,end=" ")
+    print(i,end=" ")
